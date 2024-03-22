@@ -1,4 +1,5 @@
-# Nessus PRO Installation Guide with Latest Plugin Set [NO CRACK NEEDED] [UPDATED 2024]
+# Nessus PRO Installation Guide with Latest Plugin Set 
+**[NO CRACK NEEDED] [UPDATED 2024]**
 ## Instroduction
 Let's bring back to good old Nessus Pro installation guide here! Some of you already know what I'm talking about but for others, let's go.
 Source : [https://breachforums.cx](https://breachforums.cx/Thread-Nessus-PRO-Installation-Guide-with-Latest-Plugin-Set-NO-NEED-CRACK-UPDATED-2024)
@@ -56,7 +57,7 @@ PLUGIN_FEED_TRANSPORT = "Tenable Network Security Lightning";
 Enjoy! :)
 
 
-Pleae support the original sources that made me make this unique reddit post:
-https://github.com/harshdhamaniya/nessuscrack
+Pleae support the original sources that made me make this unique reddit post:<br>
 [nessuscrack @github.com](https://github.com/harshdhamaniya/nessuscrack)
+<br>
 [tld @breachforums.cx](https://breachforums.cx/Thread-Nessus-PRO-Installation-Guide-with-Latest-Plugin-Set-NO-NEED-CRACK-UPDATED-2024)
